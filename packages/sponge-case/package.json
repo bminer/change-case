@@ -28,6 +28,7 @@
     "url": "http://rabins.dev"
   },
   "type": "module",
+  "module": "./dist/index.js",
   "exports": {
     ".": "./dist/index.js"
   },
